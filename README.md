@@ -74,12 +74,13 @@ Pilih firmware `.bin` yang sesuai lalu ikuti petunjuk di layar.
 - Nggak perlu install aplikasi tambahan  
 - Bisa langsung jalan di Chrome / Edge  
 - Aman dan cepat untuk flashing firmware
+- Harap gunakan pc atau laptop yang dapat mendeteksi com/port untuk flash lewat webflasher
 
 📎 Link WebFlasher akan disediakan nanti di halaman ini.  
 📌 link webflasher (https://smoochiee.github.io/Bluetooth-jammer-esp32/flash1):  
-`https://smoochiee.github.io/Bluetooth-jammer-esp32/flash1`
+`Pilih opsi : (Dual Nrf24l01 Vspi and Hspi pins) untuk flash lebih flexible`
 
-📲 Jika tombol ditekan, akan langsung diarahkan ke halaman flashing otomatis!
+💻 Jika tombol ditekan, akan langsung diarahkan ke halaman flashing otomatis!
 
 ---
 

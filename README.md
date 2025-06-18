@@ -1,6 +1,6 @@
 # 📡 APTECH FIRMWARE (BLUEJAMMER) - Pentest Tools 🔥
 
-![Skema BlueJammer]./(skemabt.png)
+![Skema BlueJammer](./skemabt.png)
 
 > 🚨 **PERHATIAN:**  
 > Firmware ini ditujukan untuk **eksperimen edukasi dan pentest** jaringan pribadi. Dilarang digunakan untuk merusak sistem orang lain tanpa izin.

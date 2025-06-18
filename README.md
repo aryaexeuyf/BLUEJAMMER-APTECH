@@ -76,7 +76,7 @@ Pilih firmware `.bin` yang sesuai lalu ikuti petunjuk di layar.
 - Aman dan cepat untuk flashing firmware
 
 📎 Link WebFlasher akan disediakan nanti di halaman ini.  
-📌 link webflasher (smochi github):  
+📌 link webflasher (https://smoochiee.github.io/Bluetooth-jammer-esp32/flash1):  
 `https://smoochiee.github.io/Bluetooth-jammer-esp32/flash1`
 
 📲 Jika tombol ditekan, akan langsung diarahkan ke halaman flashing otomatis!

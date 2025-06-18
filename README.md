@@ -12,7 +12,8 @@
 - 🔗 [Klik di sini untuk download .bin](./bluejammer.bin)
 - Ukuran: ±512KB
 - Versi: 1.0.0
-- Platform: ESP32 / ESP32U / ESP32S
+- Platform: ESP32 / ESP32U / ESP32s
+- Flash manual di esp8266 flasher atau esptool
 
 ---
 
@@ -63,15 +64,37 @@
 
 ---
 
+## 🚀 Flashing Firmware via WebFlasher
+
+🌐 **Gunakan WebFlasher tercepat untuk instalasi firmware langsung dari browser.**  
+⚠️ **Pastikan tekan tombol `BOOT` di board ESP saat proses flashing!**  
+Pilih firmware `.bin` yang sesuai lalu ikuti petunjuk di layar.
+
+🔧 WebFlasher ini sangat praktis dan cocok buat pemula:  
+- Nggak perlu install aplikasi tambahan  
+- Bisa langsung jalan di Chrome / Edge  
+- Aman dan cepat untuk flashing firmware
+
+📎 Link WebFlasher akan disediakan nanti di halaman ini.  
+📌 Contoh link (tempel manual):  
+`smoochiee.github.io/Bluetooth-jammer-esp32/flash1`
+
+📲 Jika tombol ditekan, akan langsung diarahkan ke halaman flashing otomatis!
+
+---
+
+❓ Butuh bantuan saat flashing? Gabung komunitas Telegram untuk diskusi dan troubleshooting!
+
 ## 🤝 Credits
 
 - Dibuat oleh: **ARYA25**
-- Dibantu AI: ChatGPT
+- dukungan : *RC-POJECT*
+- Dibantu AI: ChatGPT,Gemini Pro
 - Terinspirasi dari: Nethercap, Deauther, & ESP32 Tools
 
 ---
 
 ## 💬 Kontak
 
-📧 WA/Email/Telegram (opsional)  
-💻 [GitHub ARYA25](https://github.com/...) *(update linkmu dewe)*
+📧 Telegram (t.me/RClCOMUNITYIOFFICIAL)  
+💻 [GitHub ARYA25](https://github.com/...) *(dumy)*

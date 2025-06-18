@@ -89,7 +89,7 @@ Pilih firmware `.bin` yang sesuai lalu ikuti petunjuk di layar.
 ## 🤝 Credits
 
 - Dibuat oleh: **ARYA25**
-- dukungan : *RC-POJECT*
+- dukungan : *RC-PROJECT*
 - Dibantu AI: ChatGPT,Gemini Pro
 - Terinspirasi dari: Nethercap, Deauther, & ESP32 Tools
 

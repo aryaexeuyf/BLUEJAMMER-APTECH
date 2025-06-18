@@ -38,6 +38,7 @@
 | ⬆️ Step Up        | 1x     | Boost voltase dari 3.7 ke 5V jika perlu |
 | 🧯 Elco 100uF 10V  | 2x     | Dipasang di VCC & GND tiap NRF24    |
 | 🪫 Charger TP4056  | 1x     |
+Di Gunakan di Jalur Input Daya Baterai 3.7v untuk men charger baterai 1000mah
 
 ---
 

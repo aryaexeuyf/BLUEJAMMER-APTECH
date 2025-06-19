@@ -73,6 +73,8 @@ Berikut konfigurasi jalur **SPI** untuk koneksi NRF24L01 ke ESP32:
 - Gunakan **elco 100µF 10V** untuk tiap modul NRF24 di jalur VCC-GND ✅  
 - Disarankan memakai kabel pendek & konektor berkualitas untuk menghindari interferensi sinyal 🚫📶
 
+---
+
 ## 📢 Himbauan Penting
 
 ❗ Jangan gunakan alat ini di area publik atau jaringan milik orang lain.  

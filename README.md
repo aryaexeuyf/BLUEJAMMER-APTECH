@@ -10,7 +10,7 @@
 ## 📥 Download Firmware
 
 - 🔗 [Klik di sini untuk download .bin](./bluejammer.bin)
-- Ukuran: ±512KB
+- Ukuran: ±4MB
 - Versi: 1.0.0
 - Platform: ESP32 / ESP32U / ESP32s
 - Flash manual di esp8266 flasher atau esptool
@@ -49,6 +49,30 @@
 
 ---
 
+## 📌 Jalur Pin NRF24 - Kompatibilitas BlueJammer
+
+🧠 Firmware **BlueJammer** kompatibel dengan banyak proyek:
+
+- 🔹 *BlueJammer by Smoci*  
+- 🔸 *BlueJammer by Emensta*  
+- 🧩 *BlueJammer Official Page by APTECH*
+
+Berikut konfigurasi jalur **SPI** untuk koneksi NRF24L01 ke ESP32:
+
+| 🧷 **Mode SPI** | 🧩 **SCK** | 📥 **MISO** | 📤 **MOSI** | 🎯 **CS (SS)** | 📶 **CE** |
+|----------------|-----------|------------|-------------|----------------|-----------|
+| **VSPI**        | GPIO **18** | GPIO **19** | GPIO **23**  | GPIO **21**     | GPIO **22** |
+| **HSPI**        | GPIO **14** | GPIO **12** | GPIO **13**  | GPIO **15**     | GPIO **16** |
+
+📢 *Pilih salah satu mode SPI di atas (VSPI atau HSPI), dan sesuaikan sambungan kabel NRF24L01 ke ESP32-mu.*
+
+---
+
+🔧 **Tips**:
+
+- Gunakan **elco 100µF 10V** untuk tiap modul NRF24 di jalur VCC-GND ✅  
+- Disarankan memakai kabel pendek & konektor berkualitas untuk menghindari interferensi sinyal 🚫📶
+
 ## 📢 Himbauan Penting
 
 ❗ Jangan gunakan alat ini di area publik atau jaringan milik orang lain.  
@@ -60,7 +84,7 @@
 ## 🧪 Testing
 
 - Sudah diuji menggunakan ESP32 Devkit & NRF24 asli
-- Daya tahan baterai BL5C sekitar 2–4 jam pemakaian
+- Daya tahan baterai BL5C/polymer 1000mah sekitar 1 jam pemakaian
 - Firmware ringan, hanya memakan ~20% dari total flash
 
 ---

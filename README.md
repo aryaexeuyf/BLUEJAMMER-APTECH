@@ -75,6 +75,22 @@ Berikut konfigurasi jalur **SPI** untuk koneksi NRF24L01 ke ESP32:
 
 ---
 
+## 📡 Informasi GPIO: RX2 & TX2 pada ESP32
+
+Jika kamu melihat pin **RX2 / TX2** pada beberapa board ESP32, sebenarnya itu adalah:
+
+| Label Board | GPIO Asli | Fungsi Umum | Keterangan |
+|-------------|------------|--------------|-------------|
+| 🔁 RX2      | GPIO16     | HSPI / UART  | Bisa untuk komunikasi SPI atau serial |
+| 🔁 TX2      | GPIO17     | HSPI / UART  | Sama seperti RX2, tergantung konfigurasi |
+
+> ⚠️ **Catatan:**  
+> RX2 dan TX2 adalah sebutan _alias_ saja di board tertentu. Tetap cek datasheet atau label fisik board sebelum menyambung modul NRF24 atau lainnya.
+
+🛠️ Digunakan pada koneksi HSPI, misalnya untuk pin `CE`, `CS`, atau jalur komunikasi SPI lainnya.
+
+---
+
 ## 📢 Himbauan Penting
 
 ❗ Jangan gunakan alat ini di area publik atau jaringan milik orang lain.  

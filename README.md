@@ -77,7 +77,7 @@ Berikut konfigurasi jalur **SPI** untuk koneksi NRF24L01 ke ESP32:
 
 ## ⚡ Pemasangan Elco untuk NRF24L01
 
-![Contoh Pemasangan Elco](./tutorpasang.jpg)
+![Contoh Pemasangan Elco](./tutorelco.png)
 
 📌 Pasang elco di jalur **VCC dan GND** masing-masing modul NRF24 untuk menstabilkan daya.
 

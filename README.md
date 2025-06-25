@@ -72,6 +72,26 @@ Berikut konfigurasi jalur **SPI** untuk koneksi NRF24L01 ke ESP32:
 
 - Gunakan **elco 100µF 10V** untuk tiap modul NRF24 di jalur VCC-GND ✅  
 - Disarankan memakai kabel pendek & konektor berkualitas untuk menghindari interferensi sinyal 🚫📶
+  
+---
+
+## ⚡ Pemasangan Elco untuk NRF24L01
+
+![Contoh Pemasangan Elco](./tutorpasang.jpg)
+
+📌 Pasang elco di jalur **VCC dan GND** masing-masing modul NRF24 untuk menstabilkan daya.
+
+- Kaki **+ Elco** → ke **VCC**
+- Kaki **– Elco** → ke **GND**
+
+✅ Merekomendasikan **elco 100µF 10V**  
+✅ Boleh pakai nilai lebih tinggi (contoh: 100µF, 220µF, 470µF) asal tetap **10V** dan **tidak melebihi kapasitas fisik board**  
+✅ Elco 10V aman karena suplai NRF24 hanya sekitar 3.3V
+
+🛠 Fungsi:
+- Menstabilkan arus
+- Mencegah sinyal drop
+- Memperpanjang umur NRF24
 
 ---
 

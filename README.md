@@ -143,10 +143,11 @@ Pilih firmware `.bin` yang sesuai lalu ikuti petunjuk di layar.
 📌 link webflasher siap Pake tanpa ribet
 (https://smoochiee.github.io/Bluetooth-jammer-esp32/flash1):  
 `Pilih opsi : (Dual Nrf24l01 Vspi and Hspi pins) untuk flash lebih flexible`
+
 🪧 Link webflahser AP wifi web setting
 https://smoochiee.github.io/Noisy-boy-esp32-Bluetooth-jammer/flash
 
-💻 Jika tombol ditekan, akan langsung diarahkan ke halaman flashing otomatis!
+💻 Jika link ditekan, akan langsung diarahkan ke halaman flashing otomatis!
 
 ---
 

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/blob/main/LICENSE</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/activity</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/issues</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/pulls</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/actions</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/security</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/blob/main/README.md</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/blob/main/bluejammer.bin</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/releases</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/releases/tag/v2.0.0</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/labels</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/milestones</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/affa981960564dc8220d11084cbd64fd203933c1</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/725a42cf383f624c21524912f28730260cf91fa4</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/releases/tag/v1.0.0</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/labels/bug</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/labels/documentation</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/labels/duplicate</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/labels/enhancement</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/labels/good%20first%20issue</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/labels/help%20wanted</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/labels/invalid</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/labels/question</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/labels/wontfix</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/milestones?state=closed</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/6b2bd1f1e083790de1aa73221b3a14f758daacad</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/c4d5db3bf5977d492fd51fe7d2855adf24df5178</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/4b5c78932bb6efdf51465df5254fc1f75145f750</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/16bde6da06c652c9f977469d028c37ddf027a2db</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/5e8b86d903335901a74396947fba7c8552e1e328</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/5bccd8f7087ed1e7f97551ea7ab1d7845d56b385</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/56f0b0d961d722207667ce3600d1327e407e2ec3</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/e117d00252f907a6da3fec3d3cde7e9df94eb2ae</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/aafd63df2a7ca4a8623a51912634d98799757e65</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/1025da28affefc3b4dd165a770acff945d9d821d</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/ba124134949c3706afbdd495ab1654b39cf1eda2</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/63b5b34b7ceb94efa7dfecaaff4fab4e758f7b7b</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/b70fd97e84f156c429761a117a5ab52952b31c12</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/fbd43a87aa58efc11713622ed05f8e2f1d9e64d8</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/bc4cf9bc9780aa3cb02138067d7f10061949b8c1</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/5d73440f7f50e78d7632f05376a73d39c8e9efd6</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/6182c9ebc53b39e53252da98a8f736850fc2a3fc</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/58705548ab74ed3070e851dfce29ef4c591fdc4f</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/6083cc057f4980c7d53831d17199037403cac860</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/b4f574262a361ea262d77384d6a2b1462a2ea2b9</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/1688fa2d0ebfed50698b9817bd42f56ded8e81a0</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/d3470e173f2d7f24078e69ca5c9f09658047c7ca</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/7e38fe97221f9aed5155372a750f260a0bd78681</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/1c2eaf14b1a73641bedf28d95d90000914af4d0a</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/66bf97a8e940c15a72bbda64dead1aeef5e4dd9e</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/4cdef20ba981f5f875d6443913f6fed439171349</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/7a0041d76c4c6a7e858b1781909d8973f940eae2</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.03</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/a011ea54d60f93f77daa99680fe8a4fd2361342c</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/515fa08da3d14378694792609002e827d3dceec3</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/c98417aff81600560e9176fb73eddf1f0acb42df</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/commit/9b254e4f0bbc8472a1c152d513640eae11afc1cf</loc>
+  <lastmod>2025-07-04T10:38:05+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+
+
+</urlset>

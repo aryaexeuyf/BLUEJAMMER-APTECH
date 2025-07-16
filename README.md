@@ -9,7 +9,7 @@
 
 ## 📥 Download Firmware
 
-- 🔗 [Klik di sini untuk download .bin](./https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/releases/download/v1.0.0/bluejammer_v1.0.0.bin)
+- 🔗 [Klik di sini untuk download .bin](https://github.com/aryaexeuyf/BLUEJAMMER-APTECH/releases/download/v1.0.0/bluejammer_v1.0.0.bin)
 - Ukuran: ±4MB
 - Versi: 1.0.0
 - Platform: ESP32 / ESP32U / ESP32s
